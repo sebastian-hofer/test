@@ -1,3 +1,19 @@
+This software collection (genomic-cds) is available under a dual licensing whereby use of the software in projects that are licensed so as to be compatible with AGPL Version 3 (see below) may use the software under the terms of that license. However, if AGPL Version 3.0 terms are incompatible with your planned use of the software, alternative license terms can be negotiated — please direct inquiries about licensing to matthias.samwald@meduniwien.ac.at.
+
+Why Dual Licensing?
+===================
+Based on a “quid pro quo” approach, dual licensing is the most equitable licensing scheme, since it provides open source terms for those who are developing open source software (e.g., research institutions, non-profit entites), while also making it possible to provide proprietary terms for those who are developing proprietary software or using the software to provide commercial services.
+
+
+Which License Should I Choose?
+==============================
+If your software is licensed under a recognized open source license that is compatible with AGPL 3.0, then you can incorporate genomic-cds software under its open source license terms without further consideration. Please note that AGPL 3.0 also requires you to provide the source code of any modifications you make to this software when you make it accessible through a network (e.g., as a web service).
+
+However, if your software is not licensed under an open source compatible license, but rather is available under a proprietary license; or if you want to offer a service based on a modified version of the software withouth making these modifications available under the AGPL 3.0, then please contact matthias.samwald@meduniwien.ac.at in order to arrange alternative license terms to cover your use of the genomic-cds software.
+
+
+AGPL License
+============
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
